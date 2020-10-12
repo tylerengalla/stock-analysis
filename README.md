@@ -6,7 +6,7 @@ Steve needs help to analyze stock performances similar to the ones his parents a
 
 We're going to use VBA to help us understand how Daqo (the company's stock Steve's parents are interested in) compares in terms of total daily volume (or shares traded throughout the day - measuring how active the stock is) and the yearly return for each stock. 
 
-But we also want to be able to use these macros for future analysis if needed - so we'll create buttons to help them run this analsis and understand if this or any other stock would be a good investment.  
+But we also want to be able to use these macros for future analysis if needed - so we'll create buttons to help them run this analysis and understand if this or any other stock would be a good investment.  
 
 
 # Results
