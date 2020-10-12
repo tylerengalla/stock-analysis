@@ -1,6 +1,6 @@
 # stock-analysis
 
-# Overview of Project: Explain the purpose of this analysis.
+# Overview of Project
 
 Steve needs help to analyze stock performances similar to the ones his parents are interested in investing in - particularly around Green Energy Stocks.  
 
@@ -10,6 +10,14 @@ But we also want to be able to use these macros for future analysis if needed - 
 
 
 # Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+
+![](/VBA_Challenge_2017.png)
+
+
+
+
+
+![](/VBA_Challenge_2018.png)
 
 
 # Summary: In a summary statement, address the following questions.
